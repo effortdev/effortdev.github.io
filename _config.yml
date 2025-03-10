@@ -18,7 +18,7 @@ linkedin_username: kdohyeon
 
 about_profile_image: images/kdohyeon2.jpeg
 about_content: |
-  7년간 MSA 환경에서 Java, Kotlin, Spring, AWS 기반으로 **리테일 비즈니스, 명품 패션 이커머스, 대고객 금융 채널** 등과 관련된 백엔드 서비스를 개발해왔으며, 
+  8년간 MSA 환경에서 Java, Kotlin, Spring, AWS 기반으로 **리테일 비즈니스, 명품 패션 이커머스, 대고객 금융 채널** 등과 관련된 백엔드 서비스를 개발해왔으며, 
   **상품 카탈로그, 리뷰, 전시, 금융, 알림 발송** 등 다양한 도메인에 대한 경험이 있습니다.
   
   `고객이 필요로 하는` 서비스를 개발하는 것이 중요하다는 생각에 데이터에 기반한 의사결정, UI/UX & 서비스 사용성 등에 대해서도 함께 고민하며 업무를 수행합니다. 
@@ -84,7 +84,6 @@ content:
           - [2023. 01 ~ 2022. 03, 트렌비] [기획전 서비스 개발, pw: dhkim](https://kdohyeon.tistory.com/102)
           - [2022. 11 ~ 2022. 12, 트렌비] [명품 패션의 실 착용 정보를 제공하는 스타일 탭 서비스 개발, pw: dhkim](https://kdohyeon.tistory.com/74)
           - [2022. 06 ~ 2022. 07, 트렌비] [컨텐츠 관리 시스템 개발, pw: dhkim](https://kdohyeon.tistory.com/75)
-          - [2022. 05 ~ 2022. 06, 트렌비] 사이즈 리뷰 기능 개발
           - [2020. 01 ~ 2020. 03, 쿠팡] [통계 기반 상품의 이상 가격 탐지 서비스 개발, pw: dhkim](https://kdohyeon.tistory.com/78)
           - [2019. 04 ~ 2019. 12, 쿠팡] 리테일 (로켓) 상품 카탈로그 관리 백오피스 개발
 
@@ -108,7 +107,7 @@ content:
         title: 데이터 분석
         sub_title: 데이터 기반 업무 수행
         description: |
-          - [2023. 01, 트렌비] 스타일 서비스 런칭 후 한달간의 데이터 분석
+          - [2023. 01, 트렌비] 스타일 서비스 런칭 후 한 달간의 데이터 분석
           - [2022. 12, 트렌비] [올해 우리 팀은 어떻게 일 했나? JIRA 데이터 기반으로](https://kdohyeon.tistory.com/86)
           - [2020. 01 ~ 2020. 03, 쿠팡] 상품 가격의 이상 탐지 알고리즘 개발
 
@@ -166,9 +165,18 @@ content:
         description: |
           - International Baccalaureate (IB) 졸업
 
-  - title: 활동
+  - title: 교육 및 멘토링
     layout: list
     content:
+      - layout: top-left
+        title: "[교육] 백엔드 취업 스쿨"
+        sub_title: 제로베이스
+        caption: 2025. 03
+        link: https://zero-base.co.kr/category_dev_camp/school_BE
+        link_text: 자세히 보기
+        description: |
+          - Java 강의 (Java Collection Framework, Exceptional Handling, Multi-threading)
+
       - layout: top-left
         title: "[교육] Netplix 구독형 멤버십 프로젝트로 배우는 Spring Security"
         sub_title: 패스트캠퍼스
@@ -183,19 +191,9 @@ content:
           - Part E. 구독 서비스 만들기
 
       - layout: top-left
-        title: "[특강] 네카라쿠배에서 살아남기"
-        sub_title: 동국대학교
-        caption: 2024. 05
-        link: https://dice.dongguk.edu/board/view.do?id=S181&seq=626
-        link_text: 자세히 보기
-        description: |
-          - 개발자 커리어 공유
-          - 개발자로 성장했던 과정 공유
-
-      - layout: top-left
         title: "[멘토링] 융합캡스톤디자인 멘토링"
         sub_title: 동국대학교
-        caption: 2024. 03 ~ 2024. 08
+        caption: 2024. 03 ~ Present
         description: |
           - 졸업 프로젝트 멘토링
           - 취업 및 진로에 대한 상담
@@ -213,17 +211,7 @@ content:
           - 프로젝트 4. 스프링과 외부 데이터 연결하기
 
       - layout: top-left
-        title: "[특강] 어쩌다 개발 6년차"
-        sub_title: 광운대학교
-        caption: 2023. 11
-        link: https://kdohyeon.tistory.com/141
-        link_text: 자세히 보기
-        description: |
-          - 6년간의 개발자 커리어 공유
-          - 취업 및 커리어에 대한 생각 공유
-
-      - layout: top-left
-        title: "[특강] 원데이 백엔드 클래스"
+        title: "[교육] 원데이 백엔드 클래스"
         sub_title: 광운대학교
         caption: 2023. 01
         link: https://kdpark.notion.site/7fb8cd1a9c7b4412a4239087a10fd13d
@@ -231,7 +219,7 @@ content:
         description: |
           - 스프링부트 기반 백엔드 개발 시작하기
           - CRA (create-react-app) 기반 프론트엔드 개발 시작하기
-          - 백엔드-프론트엔드 연동하기
+          - 백엔드-프론트엔드 연동하기        
 
       - layout: top-left
         title: "[교육] 백엔드 온라인 강의"
@@ -247,6 +235,38 @@ content:
           - Spring JPA 소개
           - 테스트 작성의 중요성과 JUnit 기반 방법 소개
           - 총 10개 기수 멘토링
+
+  - title: 특강
+    layout: list
+    content:
+      - layout: top-left
+        title: "[특강] 당신만의 색깔, 그게 킥이거덩요"
+        sub_title: 인천대학교
+        caption: 2024. 11
+        link: https://ime.inu.ac.kr/ime/3104/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGaW1lJTJGMTgwMSUyRjM5NzE4NSUyRmFydGNsVmlldy5kbyUzRg%3D%3D
+        link_text: 자세히 보기
+        description: |
+          - https://kdohyeon.tistory.com/150
+
+      - layout: top-left
+        title: "[특강] 네카라쿠배에서 살아남기"
+        sub_title: 동국대학교
+        caption: 2024. 05
+        link: https://dice.dongguk.edu/board/view.do?id=S181&seq=626
+        link_text: 자세히 보기
+        description: |
+          - 개발자 커리어 공유
+          - 개발자로 성장했던 과정 공유
+
+      - layout: top-left
+        title: "[특강] 어쩌다 개발 6년차"
+        sub_title: 광운대학교
+        caption: 2023. 11
+        link: https://kdohyeon.tistory.com/141
+        link_text: 자세히 보기
+        description: |
+          - 6년간의 개발자 커리어 공유
+          - 취업 및 커리어에 대한 생각 공유
 
       - layout: top-left
         title: "[특강] 쿠팡에서의 3년"
