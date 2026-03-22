@@ -32,25 +32,25 @@ content:
     layout: list
     content:
       - layout: left
-      title: 웹 에이전시
-      sub_title: Engineer Intern
-      caption: 2023. 03 ~ 2023. 05
-      quote: >
-        React 기반 웹 서비스 개발팀 인턴으로 협업 문화 경험
-      description: |
-        - 코드 리뷰 참여를 통한 실무 코드 품질 기준 및 협업 방식 습득
-        - Git/GitHub 기반 협업 워크플로우 실무 적용
+        title: 웹 에이전시
+        sub_title: Engineer Intern
+        caption: 2023. 03 ~ 2023. 05
+        quote: >
+          React 기반 웹 서비스 개발팀 인턴으로 협업 문화 경험
+        description: |
+          - 코드 리뷰 참여를 통한 실무 코드 품질 기준 및 협업 방식 습득
+          - Git/GitHub 기반 협업 워크플로우 실무 적용
 
-    - layout: left
-      title: IoT 스타트업
-      sub_title: Backend Engineer
-      caption: 2023. 06 ~ 2024. 08
-      quote: >
-        IoT 기반 서비스 백엔드 개발 및 농업·환경 도메인 R&D 과제 참여
-      description: |
-        - MQTT 통신을 활용한 IoT 디바이스 실시간 데이터 수집 및 시각화 개발
-        - 회사 웹사이트 제작 및 유지보수
-        - 농업·환경 도메인 R&D 사업 웹 시스템 설계 및 개발 참여
+      - layout: left
+        title: IoT 스타트업
+        sub_title: Backend Engineer
+        caption: 2023. 06 ~ 2024. 08
+        quote: >
+          IoT 기반 서비스 백엔드 개발 및 농업·환경 도메인 R&D 과제 참여
+        description: |
+          - MQTT 통신을 활용한 IoT 디바이스 실시간 데이터 수집 및 시각화 개발
+          - 회사 웹사이트 제작 및 유지보수
+          - 농업·환경 도메인 R&D 사업 웹 시스템 설계 및 개발 참여
 
   - title: 역량
     layout: list
