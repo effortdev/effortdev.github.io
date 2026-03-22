@@ -170,67 +170,14 @@ content:
     layout: list
     content:
       - layout: top-left
-        title: 이상 탐지 알고리즘 연구
-        sub_title: POSTECH, 참여연구원
-        caption: 2018. 03 ~ 2018. 06
+        title: 주요 밀원 개화기 예측 이용 기술 개발
+        sub_title: 농촌진흥청, 참여연구자
+        caption: 2023. 06 ~ 2026. 12
         quote: >
-          [삼성중공업] 공정 로그 데이터 기반 이상 공정 탐지 알고리즘 개발
+          농업·환경 도메인 R&D 과제의 웹 시스템 개발 참여
         description: |
-          - 공정 로그 데이터 구조 파악 및 이상 공정 탐지 알고리즘 개발
-
-      - layout: top-left
-        title: 데이터 기반 서비스 경험 산학 연구
-        sub_title: POSTECH, 참여연구원
-        caption: 2017. 12 ~ 2018. 04
-        quote: >
-          [삼성전자] DATA 기반 INTELLIGENCE 서비스 경험 산학 연구
-        description: |
-          - 데이터 기반 서비스 경험 개선 시나리오 구현 가능성 검토
-          - 샘플 데이터 기반의 포로토타입 프로그램 개발 (Python)
-
-      - layout: top-left
-        title: 시스템 로그 및 UX 분석 모델 연구
-        sub_title: POSTECH, 참여연구원
-        caption: 2017. 07 ~ 2017. 11
-        quote: >
-          [삼성중공업] 프로세스 마이닝 기반 시스템 로그 및 UX 분석 모델 개발
-        description: |
-          - 프로세스 마이닝 분석을 위해 데이터 및 UX 요구사항 분석
-          - 데이터 파악을 위해 EDA 수행 및 분석을 위한 데이터 전처리
-          - UI (화면), 부서, 사용자, 시간 관점에서 다각도 데이터 분석 수행
-
-      - layout: top-left
-        title: IoT Intelligence 서비스 경험 연구
-        sub_title: POSTECH, 참여연구원
-        caption: 2017. 05 ~ 2017. 09
-        quote: >
-          [삼성전자] Multi-device / Multi-source data 기반 IoT Intelligence 서비스 경험 연구
-        description: |
-          - 삼성 커넥트 서비스의 편의성 및 품질 향상을 위해 서비스 경험 및 컨셉 디자인
-          - 서비스 경험을 개선하기 위해 필요한 데이터 파악 및 프로세스 정의
-
-      - layout: top-left
-        title: LKAS 데이터 분석
-        sub_title: POSTECH, 참여연구원
-        caption: 2016. 05 ~ 2017. 07
-        quote: >
-          [현대자동차] LKAS 데이터 통계 분석 및 RATING 프로그램 개발
-        description: |
-          - LKA 성능 지표 및 통합 점수 산출 방법 개발 등 성능 분석 방법론 개발
-          - 분석 시스템 요구사항 분석 및 Java 기반 LKA 성능 분석 자동화 시스템 개발
-
-      - layout: top-left
-        title: 대용량 데이터 기반 모델링 연구
-        sub_title: UNIST, 참여연구원
-        caption: 2016. 05 ~ 2016. 08
-        link: https://kdohyeon.tistory.com/70
-        link_text: > 
-          자세히 보기 (pw: dhkim)
-        quote: >
-          [근로복지공단] 대용량 데이터를 활용한 산재 및 고용보험 가입누락 조사대상 사업장 구축
-        description: |
-          - 사업장 관련 데이터 전처리 및 데이터 통합
-          - 의사결정나무 기반 모델링
+          - 기온 데이터를 활용한 개화기 예측 알고리즘 연구 참여
+          - 예측 데이터를 시각화하는 웹 서비스 설계 및 개발 참여
 
 # Footer
 footer_show_references: true
