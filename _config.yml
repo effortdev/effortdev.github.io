@@ -74,7 +74,7 @@ content:
         sub_title: 개인 프로젝트
         caption: Spring Boot · React · Docker · GitHub Actions · Azure · Vercel
         link: realelstate.vercel.app
-        link_text: 사이트 방문
+        link_text: 부동산 실거래 조회 서비스 방문
         quote: >
           공공데이터 기반 아파트 실거래 정보를 시각화하는 웹 서비스
         description: |
