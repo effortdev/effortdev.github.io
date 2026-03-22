@@ -123,33 +123,28 @@ content:
           - ReactJS
           - Vercel
 
-  - title: 학력
+  - title: 자격증
     layout: list
     content:
       - layout: top-left
-        title: POSTECH
-        sub_title: 산업경영공학 석사
-        caption: 2016. 07 ~ 2018. 07
-        link: https://aim.postech.ac.kr/
-        link_text: 자세히 보기
-        description: |
-          - 현대자동차, 삼성전자, 삼성중공업, 근로복지공단 등 다양한 산학 프로젝트 수행
-          - 관심 연구 분야: 데이터 분석, 데이터 마이닝, 프로세스 마이닝
-          - 졸업 논문: 프로세스 마이닝을 활용한 다각도 관점에서의 이상 (Anomaly) 탐지 방법 제안
-
+        title: 정보처리기사
+        sub_title: 한국산업인력공단
+        caption: 2025. 09
+        
       - layout: top-left
-        title: UNIST
-        sub_title: 컴퓨터 공학 학사, 기술 경영 학사
-        caption: 2012. 03 ~ 2016. 02
-        description: |
-          - 컴퓨터 공학 및 기술 경영 복수 전공
-
+        title: SQL 개발자
+        sub_title: 한국데이터산업진흥원
+        caption: 2025. 04
+    
       - layout: top-left
-        title: Hvitfeldtska Gymnasiet
-        sub_title: 고등학교
-        caption: 2008. 09 ~ 2011. 05
-        description: |
-          - International Baccalaureate (IB) 졸업
+        title: 컴퓨터활용능력 1급
+        sub_title: 대한상공회의소
+        caption: 2020. 11
+    
+      - layout: top-left
+        title: 정보처리기능사
+        sub_title: 한국산업인력공단
+        caption: 2010. 11
 
   - title: 교육 및 멘토링
     layout: list
