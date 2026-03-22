@@ -102,25 +102,26 @@ content:
       - layout: left
         title: Backend
         description: | 
-          - Java17, Kotlin, Python
+          - Java17
           - SpringBoot3.x, SpringBatch5.x, Spring Security6.x
-          - JPA, QueryDSL5.x
-          - JUnit5, Spock
+          - JPA
+          - JUnit5
           - Gradle
           - IntelliJ
       - layout: left
         title: DevOps
         description: |
-          - MySQL8.x, PostgreSQL, Redis, ES
+          - MySQL8.x, Redis
           - Jenkins, Github Action
-          - AWS 
-          - Kafka
+          - AWS, Azure 
+          - Docker
           - Git
       - layout: left
         title: Frontend
         description: |
           - JavaScript 
           - ReactJS
+          - Vercel
 
   - title: 학력
     layout: list
