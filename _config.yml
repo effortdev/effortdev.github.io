@@ -52,45 +52,49 @@ content:
           - 회사 웹사이트 제작 및 유지보수
           - 농업·환경 도메인 R&D 사업 웹 시스템 설계 및 개발 참여
 
-  - title: 역량
+  - title: 프로젝트
     layout: list
     content:
       - layout: top-left
-        title: 서비스 개발
-        sub_title: 신규 서비스 분석 및 개발
+        title: Beanst
+        sub_title: 호텔 예약 시스템 (팀 프로젝트 · 5인 · 2주)
+        caption: DynamicWeb · JSP · jQuery
+        quote: >
+          웹 서비스의 기본 동작 원리를 직접 구현하며 익힌 호텔 예약 플랫폼
         description: |
-          - [2023. 11 ~ Present] 알림 발송 서비스 설계 및 개발
-          - [2023. 08 ~ 2023. 10, 카카오뱅크] 수신 상품 가입 시 내 문서함 서비스 가입 및 문서 발송 서비스 개발
-          - [2023. 04 ~ 2023. 07, 카카오뱅크] 계좌 비밀번호 기반 인증서 발급 방식 개발
-          - [2023. 01 ~ 2022. 03, 트렌비] [기획전 서비스 개발, pw: dhkim](https://kdohyeon.tistory.com/102)
-          - [2022. 11 ~ 2022. 12, 트렌비] [명품 패션의 실 착용 정보를 제공하는 스타일 탭 서비스 개발, pw: dhkim](https://kdohyeon.tistory.com/74)
-          - [2022. 06 ~ 2022. 07, 트렌비] [컨텐츠 관리 시스템 개발, pw: dhkim](https://kdohyeon.tistory.com/75)
-          - [2020. 01 ~ 2020. 03, 쿠팡] [통계 기반 상품의 이상 가격 탐지 서비스 개발, pw: dhkim](https://kdohyeon.tistory.com/78)
-          - [2019. 04 ~ 2019. 12, 쿠팡] 리테일 (로켓) 상품 카탈로그 관리 백오피스 개발
+          - DB 설계 전반 담당 및 테이블 간 외래키 관계 정의
+          - 회원가입 / 로그인 기능 구현 (세션 기반 인증)
+          - 객실 예약 프로세스 설계 및 개발
+          - 관리자 페이지 회원 관리 기능 개발
+          - 프로젝트를 통해 HTTP 요청/응답 흐름, DB 연동 등
+            웹 서비스의 기본 동작 원리를 깊이 이해
 
       - layout: top-left
-        title: 시스템 리엔지니어링
-        sub_title: 시스템 성능 개선, 서비스 분리 및 마이그레이션 등
+        title: 부동산 실거래 조회 서비스
+        sub_title: 개인 프로젝트
+        caption: Spring Boot · React · Docker · GitHub Actions · Azure · Vercel
+        link: realelstate.vercel.app
+        quote: >
+          공공데이터 기반 아파트 실거래 정보를 시각화하는 웹 서비스
         description: |
-          - [2022. 05, 트렌비] [리뷰 서비스 안정화 및 p90 API 응답 속도 250ms -> 30ms 개선, pw: dhkim](https://kdohyeon.tistory.com/72)
-          - [2021. 09 ~ 2021. 12, 쿠팡] [API 교체](https://kdohyeon.tistory.com/96)
-          - [2020. 09 ~ 2020. 12, 쿠팡] 리테일 (로켓) 상품 카탈로그 서비스 분리
-          - [2018. 10 ~ 2019. 03, 쿠팡] 리테일 (로켓) 상품 카탈로그 시스템 마이그레이션
+          - 공공데이터 API를 활용한 지역별 아파트 실거래 데이터 수집 및 제공
+          - 거래 지표 및 거래 금액 차트 시각화
+          - 네이버 지도 API를 활용한 매물 위치 표시
+          - Azure 서버(1 CPU, 1GB RAM) 배포 환경에서 서버 사양 한계를
+            경험하고, 프론트엔드를 Vercel로 분리하여 안정성 확보
+          - Docker 컨테이너화 및 GitHub Actions를 통한 CI/CD 자동화 구축
 
       - layout: top-left
-        title: 시스템 설계
-        sub_title: 데이터 구조 및 시스템 설계
+        title: 우주 쓰레기 실시간 관제 시스템
+        sub_title: 개인 프로젝트 (진행 예정)
+        caption: Spring Boot · React · Redis · Spring Batch · Docker · GitHub Actions
+        quote: >
+          우주 물체의 실시간 궤도 데이터를 수집·처리·시각화하는 관제 시스템
         description: |
-          - [2022. 07 ~ 2022. 11, 트렌비] 상품 카탈로그 시스템 설계
-          - [2019. 04 ~ 2019. 12, 쿠팡] 상품 수정 이력 구조 설계
-
-      - layout: top-left
-        title: 데이터 분석
-        sub_title: 데이터 기반 업무 수행
-        description: |
-          - [2023. 01, 트렌비] 스타일 서비스 런칭 후 한 달간의 데이터 분석
-          - [2022. 12, 트렌비] [올해 우리 팀은 어떻게 일 했나? JIRA 데이터 기반으로](https://kdohyeon.tistory.com/86)
-          - [2020. 01 ~ 2020. 03, 쿠팡] 상품 가격의 이상 탐지 알고리즘 개발
+          - 실시간 우주 물체 궤도 데이터 수집 및 처리 파이프라인 설계
+          - Redis를 활용한 데이터 캐싱 및 조회 성능 최적화
+          - Spring Batch 기반 대용량 데이터 배치 처리
+          - Docker 컨테이너화 및 CI/CD 자동화, 서버 배포까지 직접 구축 예정
 
   - title: 기술 스택
     layout: list
