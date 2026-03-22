@@ -128,23 +128,27 @@ content:
     content:
       - layout: top-left
         title: 정보처리기사
-        sub_title: 한국산업인력공단
         caption: 2025. 09
+        description: |
+          - 한국산업인력공단
         
       - layout: top-left
         title: SQL 개발자
-        sub_title: 한국데이터산업진흥원
         caption: 2025. 04
+        description: |
+          - 한국데이터산업진흥원
     
       - layout: top-left
         title: 컴퓨터활용능력 1급
-        sub_title: 대한상공회의소
         caption: 2020. 11
+        description: |
+          - 대한상공회의소
     
       - layout: top-left
         title: 정보처리기능사
-        sub_title: 한국산업인력공단
         caption: 2010. 11
+        description: |
+          - 한국산업인력공단
 
   - title: 교육 및 멘토링
     layout: list
