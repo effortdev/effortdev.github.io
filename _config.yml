@@ -56,7 +56,7 @@ content:
     content:
       - layout: top-left
         title: 환승거래
-        sub_title: 팀 프로젝트
+        sub_title: 호텔 예약 시스템 (팀 프로젝트 · 6인 · 3주)
         caption: Spring Boot · Spring Security · JWT · React(Vite) · WebSocket · Redis · Spring Batch · Docker · GitHub Actions · GCP
         link: http://hsmarket.duckdns.org/
         link_text: 🚀 [환승거래 서비스 바로가기]
