@@ -55,11 +55,11 @@ content:
     layout: list
     content:
       - layout: top-left
-        title: 환승거래
-        sub_title: 호텔 예약 시스템 (팀 프로젝트 · 6인 · 3주)
+        title: 환승마켓
+        sub_title: 중고거래 시스템 (팀 프로젝트 · 6인 · 3주)
         caption: Spring Boot · Spring Security · JWT · React(Vite) · WebSocket · Redis · Spring Batch · Docker · GitHub Actions · GCP
         link: http://hsmarket.duckdns.org/
-        link_text: 🚀 [환승거래 서비스 바로가기]
+        link_text: 🚀 [환승마켓 서비스 바로가기]
         quote: >
           실시간 통신과 인프라 자동화를 경험한 거래 플랫폼
         description: |
@@ -157,16 +157,16 @@ content:
     layout: list
     content:
       - layout: top-left
+          title: (스마트웹&콘텐츠개발)자바(JAVA) 백엔드 웹개발자(JPA,Springboot, AWS)
+          caption: 2025-10-23 ~ 2026-04-22
+          description: |
+            - 하이미디어 컴퓨터학원
+            
+      - layout: top-left
         title: DCX기반 빅데이터 분석서비스 개발자 과정
         caption: 2022-06-20 ~ 2022-12-14
         description: |
-          - 스마트인재개발원
-
-      - layout: top-left
-        title: (스마트웹&콘텐츠개발)자바(JAVA) 백엔드 웹개발자(JPA,Springboot, AWS)
-        caption: 2025-10-23 ~ 2026-04-22
-        description: |
-          - 하이미디어 컴퓨터학원
+          - 스마트인재개발원      
 
   - title: 연구 경험
     layout: list
