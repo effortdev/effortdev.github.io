@@ -74,7 +74,7 @@ content:
         sub_title: 개인 프로젝트
         caption: Spring Boot · React · Docker · GitHub Actions · Azure · Vercel
         link: realelstate.vercel.app
-        link_text: 🔗 [부동산 실거래 조회 서비스 바로가기]
+        link_text: 🚀 [부동산 실거래 조회 서비스 바로가기]
         quote: >
           공공데이터 기반 아파트 실거래 정보를 시각화하는 웹 서비스
         description: |
@@ -89,6 +89,8 @@ content:
         title: Beanst
         sub_title: 호텔 예약 시스템 (팀 프로젝트 · 5인 · 2주)
         caption: DynamicWeb · JSP · jQuery
+        link: https://vinsthotel.duckdns.org/main.do
+        link_text: 🚀 [호텔 예약 서비스 바로가기]
         quote: >
           웹 서비스의 기본 동작 원리를 직접 구현하며 익힌 호텔 예약 플랫폼
         description: |
