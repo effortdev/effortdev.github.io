@@ -157,10 +157,10 @@ content:
     layout: list
     content:
       - layout: top-left
-          title: (스마트웹&콘텐츠개발)자바(JAVA) 백엔드 웹개발자(JPA,Springboot, AWS)
-          caption: 2025-10-23 ~ 2026-04-22
-          description: |
-            - 하이미디어 컴퓨터학원
+        title: (스마트웹&콘텐츠개발)자바(JAVA) 백엔드 웹개발자(JPA,Springboot, AWS)
+        caption: 2025-10-23 ~ 2026-04-22
+        description: |
+          - 하이미디어 컴퓨터학원
             
       - layout: top-left
         title: DCX기반 빅데이터 분석서비스 개발자 과정
