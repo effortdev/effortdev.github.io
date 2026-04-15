@@ -107,18 +107,20 @@ content:
       - layout: left
         title: Backend
         description: | 
-          - Java17
-          - SpringBoot3.x, SpringBatch5.x, Spring Security6.x
-          - JPA
+          - Java 17
+          - Spring Boot 3.x, Spring Batch 5.x, Spring Security 6.x
+          - JPA (Hibernate)
+          - WebSocket (STOMP)
           - JUnit5
           - Gradle
           - IntelliJ
       - layout: left
         title: DevOps
         description: |
-          - MySQL8.x, Redis
-          - Jenkins, Github Action
-          - AWS, Azure 
+          - MySQL 8.x
+          - Redis (Caching / Pub-Sub)
+          - GitHub Actions (CI/CD)
+          - AWS, Azure, GCP
           - Docker
           - Git
       - layout: left
@@ -126,6 +128,7 @@ content:
         description: |
           - JavaScript 
           - ReactJS
+          - Vite
           - Vercel
 
   - title: 자격증
