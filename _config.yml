@@ -61,7 +61,7 @@ content:
         title: 환승마켓
         sub_title: 중고거래 시스템 (팀 프로젝트 · 6인 · 3주)
         caption: Spring Boot · Spring Security · JWT · React(Vite) · WebSocket · Redis · Spring Batch · Docker · GitHub Actions · GCP
-        link: http://hsmarket.duckdns.org/
+        link: https://hsmarket.duckdns.org/
         link_text: 🚀 [환승마켓 서비스 바로가기]
         quote: >
           실시간 통신과 인프라 자동화를 경험한 거래 플랫폼
